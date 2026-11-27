@@ -1,0 +1,6 @@
+body { margin: 0; background: #2b1a10; font-family: Georgia, 'Times New Roman', serif; }
+#wrap { width: 960px; margin: 18px auto; }
+canvas { display: block; background: #f7e3bd; border: 6px solid #6b3f1d; border-radius: 10px; }
+#bar { display: flex; justify-content: space-between; align-items: center; color: #f3d9ae; margin-top: 10px; font-size: 15px; }
+#muteBtn { background: #d97706; color: #fff7e6; border: 2px solid #92400e; border-radius: 8px; padding: 6px 14px; font: inherit; font-weight: bold; cursor: pointer; }
+#muteBtn:hover { background: #b45309; }
